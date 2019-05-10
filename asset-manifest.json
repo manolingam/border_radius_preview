@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/border_radius_preview/static/css/main.a286ef0b.chunk.css",
+    "main.js": "/border_radius_preview/static/js/main.5beac04c.chunk.js",
+    "main.js.map": "/border_radius_preview/static/js/main.5beac04c.chunk.js.map",
+    "runtime~main.js": "/border_radius_preview/static/js/runtime~main.83abfe1f.js",
+    "runtime~main.js.map": "/border_radius_preview/static/js/runtime~main.83abfe1f.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/border_radius_preview/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/border_radius_preview/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/border_radius_preview/index.html",
+    "precache-manifest.d08db0596d9ad03b9aa896366891a0d5.js": "/border_radius_preview/precache-manifest.d08db0596d9ad03b9aa896366891a0d5.js",
+    "service-worker.js": "/border_radius_preview/service-worker.js",
+    "static/css/main.a286ef0b.chunk.css.map": "/border_radius_preview/static/css/main.a286ef0b.chunk.css.map"
+  }
+}
